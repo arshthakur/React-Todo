@@ -4,6 +4,8 @@ This is a simple To-Do application built with React and styled using Tailwind CS
 
 ## Screenshots
 
+![login page](src/assets/screenshot.png)
+
 ## Features
 
 1. Add Tasks: Easily add new tasks to your to-do list.
@@ -16,7 +18,7 @@ This is a simple To-Do application built with React and styled using Tailwind CS
 To get started with the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/arshthakur/react-todo-app.git
 
 2. Navigate to the project directory:
    cd react-todo-app
